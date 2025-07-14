@@ -1,0 +1,12 @@
+user_id,product_id,rating,product_title,product_description
+1,101,5,Wireless Mouse,A high-precision wireless mouse with ergonomic design.
+1,102,3,USB-C Cable,A durable USB-C cable compatible with all modern devices.
+1,103,4,Mechanical Keyboard,A keyboard with tactile mechanical switches.
+2,101,4,Wireless Mouse,A high-precision wireless mouse with ergonomic design.
+2,104,2,Gaming Headset,Surround sound headset for immersive gaming.
+3,102,5,USB-C Cable,A durable USB-C cable compatible with all modern devices.
+3,103,3,Mechanical Keyboard,A keyboard with tactile mechanical switches.
+3,105,4,Webcam,High-definition webcam with built-in microphone.
+4,104,4,Gaming Headset,Surround sound headset for immersive gaming.
+4,105,5,Webcam,High-definition webcam with built-in microphone.
+4,101,3,Wireless Mouse,A high-precision wireless mouse with ergonomic design.
